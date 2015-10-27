@@ -8,6 +8,7 @@ public class Test1 : MonoBehaviour
   int _Variable2;
   int _Variable3;
   int _Variable4;
+  int _Variable5;
 
   // --------------------------------------------------------------------------------------------------------------------------------
 

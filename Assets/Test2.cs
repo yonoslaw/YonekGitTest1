@@ -6,6 +6,7 @@ public class Test2 : MonoBehaviour
 
   float _Var1;
   float _Var2;
+  float _Var3;
 
   // Use this for initialization
   void Start ()
