@@ -4,8 +4,6 @@ using System.Collections;
 public class Test1 : MonoBehaviour
 {
 
-  int _Variable1;
-
   // --------------------------------------------------------------------------------------------------------------------------------
 
   void Start ()
